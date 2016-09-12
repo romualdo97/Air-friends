@@ -1,0 +1,307 @@
+
+packaged.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+airplanes/blue-aircraft
+  rotate: false
+  xy: 0, 658
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 0
+airplanes/blue-aircraft
+  rotate: false
+  xy: 0, 329
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 1
+airplanes/blue-aircraft
+  rotate: false
+  xy: 0, 0
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 2
+
+packaged2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+airplanes/blue-aircraft
+  rotate: false
+  xy: 0, 658
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 3
+airplanes/blue-aircraft
+  rotate: false
+  xy: 0, 329
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 4
+airplanes/green-aircraft
+  rotate: false
+  xy: 0, 0
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 0
+
+packaged3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+airplanes/green-aircraft
+  rotate: false
+  xy: 0, 658
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 1
+airplanes/green-aircraft
+  rotate: false
+  xy: 0, 329
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 2
+airplanes/green-aircraft
+  rotate: false
+  xy: 0, 0
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 3
+
+packaged4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+airplanes/green-aircraft
+  rotate: false
+  xy: 0, 658
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 4
+airplanes/red-aircraft
+  rotate: false
+  xy: 0, 329
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 0
+airplanes/red-aircraft
+  rotate: false
+  xy: 0, 0
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 1
+
+packaged5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+airplanes/red-aircraft
+  rotate: false
+  xy: 0, 658
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 2
+airplanes/red-aircraft
+  rotate: false
+  xy: 0, 329
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 3
+airplanes/red-aircraft
+  rotate: false
+  xy: 0, 0
+  size: 652, 329
+  orig: 652, 329
+  offset: 0, 0
+  index: 4
+
+packaged6.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ui/backward
+  rotate: false
+  xy: 0, 135
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+ui/forward
+  rotate: false
+  xy: 151, 280
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+ui/fuel
+  rotate: false
+  xy: 0, 0
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+ui/leaderboard
+  rotate: false
+  xy: 151, 145
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+ui/more
+  rotate: false
+  xy: 302, 280
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+ui/no
+  rotate: false
+  xy: 151, 10
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+ui/pause
+  rotate: false
+  xy: 302, 145
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+ui/play
+  rotate: false
+  xy: 453, 280
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+ui/restart
+  rotate: false
+  xy: 0, 270
+  size: 151, 145
+  orig: 151, 145
+  offset: 0, 0
+  index: -1
+ui/sound-off
+  rotate: false
+  xy: 302, 10
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+ui/sound-on
+  rotate: false
+  xy: 453, 145
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+
+packaged7.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+misc/cloud
+  rotate: false
+  xy: 0, 151
+  size: 480, 295
+  orig: 480, 295
+  offset: 0, 0
+  index: -1
+misc/coin
+  rotate: false
+  xy: 480, 422
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: 3
+misc/coin
+  rotate: false
+  xy: 0, 0
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: 1
+misc/coin
+  rotate: false
+  xy: 384, 128
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: 2
+misc/coin
+  rotate: false
+  xy: 480, 401
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 0
+misc/explosion
+  rotate: false
+  xy: 0, 23
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+misc/explosion
+  rotate: false
+  xy: 128, 23
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+misc/explosion
+  rotate: false
+  xy: 256, 23
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+
+packaged8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+large-images/background-image
+  rotate: false
+  xy: 0, 250
+  size: 400, 250
+  orig: 400, 250
+  offset: 0, 0
+  index: 0
+large-images/background-image
+  rotate: false
+  xy: 0, 0
+  size: 400, 250
+  orig: 400, 250
+  offset: 0, 0
+  index: 1
+large-images/in-game-background
+  rotate: false
+  xy: 0, 500
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
